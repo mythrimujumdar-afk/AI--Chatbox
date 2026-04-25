@@ -1,2 +1,9 @@
-# AI--Chatbox
-AI - Chatbox using ollama
+# 🤖 AI Chatbox using Ollama
+
+## Features
+- Local AI chatbot (no internet required)
+- Built using Python and Ollama
+- Runs in terminal
+
+## Coming Soon
+- Web UI using Streamlit
