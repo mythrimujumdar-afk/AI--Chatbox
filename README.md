@@ -7,3 +7,6 @@
 
 ## Coming Soon
 - Web UI using Streamlit
+## Screenshot
+
+![Chatbot Screenshot](screenshot.png)
