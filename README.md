@@ -1,12 +1,20 @@
-# 🤖 AI Chatbox using Ollama
+# 📄 AI PDF Chatbot (RAG)
 
-## Features
-- Local AI chatbot (no internet required)
-- Built using Python and Ollama
-- Runs in terminal
+This project is an AI-powered chatbot that allows users to interact with PDF documents.
 
-## Coming Soon
-- Web UI using Streamlit
-## Screenshot
+## 🚀 Features
+- Upload PDF
+- Ask questions
+- Get AI-generated answers
 
-![Chatbot Screenshot](screenshot.png)
+## 🛠️ Tech Stack
+- Python
+- Streamlit
+- LangChain
+- FAISS
+- Ollama (Llama 3)
+
+## 📸 Screenshots
+
+![Home](screenshots/home.png)
+![Output](screenshots/output.png)
